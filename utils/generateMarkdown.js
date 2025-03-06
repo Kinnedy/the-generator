@@ -43,11 +43,11 @@ ${data.description}
 
 ## table of contents
 1. [installation](#installation)
-2. [usage](usage)
-3. [license](licence)
-4. [contribution](contribution)
-5. [tests](tests)
-6. [questions](questions)
+2. [usage](#usage)
+3. [license](#licence)
+4. [contribution](#contribution)
+5. [tests](#tests)
+6. [questions](#questions)
 
 ## Installation
 ${data.installation}
